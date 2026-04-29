@@ -1,8 +1,6 @@
 # Configure SSH Keys in Bitbucket & SourceTree (Mac/Windows)
 
-> Complete implementation guide with screenshots, commands, and troubleshooting steps.
-
-![SSH Banner](https://images.unsplash.com/photo-1555949963-aa79dcee981c?q=80\&w=1200\&auto=format\&fit=crop)
+> Complete implementation guide with commands and troubleshooting steps.
 
 ---
 
@@ -49,8 +47,6 @@ id_ed25519.pub
 If no keys exist, create a new one.
 
 ---
-
-![Generate SSH Key](https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80\&w=1200\&auto=format\&fit=crop)
 
 # Step 2: Generate SSH Key
 
@@ -129,8 +125,6 @@ ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIExampleKey your_email@example.com
 
 ---
 
-![Bitbucket SSH Configuration](https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80\&w=1200\&auto=format\&fit=crop)
-
 # Step 5: Add SSH Key to Bitbucket
 
 ## In Bitbucket
@@ -183,8 +177,6 @@ yes
 ```
 
 ---
-
-![SourceTree Setup](https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80\&w=1200\&auto=format\&fit=crop)
 
 # Step 7: Configure SourceTree
 
@@ -288,8 +280,6 @@ origin  git@bitbucket.org:workspace/repository.git (push)
 ```
 
 ---
-
-![Git Push Workflow](https://images.unsplash.com/photo-1618477388954-7852f32655ec?q=80\&w=1200\&auto=format\&fit=crop)
 
 # Step 10: Push Changes
 
@@ -436,8 +426,6 @@ Example `.gitignore`:
 ```
 
 ---
-
-![DevOps Workflow](https://images.unsplash.com/photo-1605379399642-870262d3d051?q=80\&w=1200\&auto=format\&fit=crop)
 
 # Conclusion
 
